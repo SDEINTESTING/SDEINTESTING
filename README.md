@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SDEINTESTING (Nilesh)
+- 👋 Hi, I’m @SDEINTESTING 😁
 - 👀 I’m interested in learning new skills and sharing with you.
 - 🌱 I’m currently learning DSA-JAVA
 - 💞️ I’m looking to collaborate on DSA-JAVA
